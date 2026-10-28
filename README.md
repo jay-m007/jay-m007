@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jay Maurya 👋
 
-<!--
-**jay-m007/jay-m007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at SJCEM, Mumbai. I build full-stack web apps, AI features and IoT projects.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[HubSkins](https://hubskins-maurya67jay-4189s-projects.vercel.app)**: a free browser extension with 16 readable themes for GitHub. Live on Edge, with Chrome and Firefox coming.
+- **[ArchGuard](https://github.com/jay-m007/ArchGuard)**, **[ContextCode](https://github.com/jay-m007/ContextCode)** and **[Resonance](https://github.com/jay-m007/Resonance)**: my main projects, pinned below.
+
+## Tech stack
+
+```js
+const jay = {
+  languages: ["Python", "JavaScript", "TypeScript", "SQL"],
+  frameworks: ["React", "Next.js", "Node.js"],
+  databases: ["MongoDB", "SQL"],
+  ai: ["YOLOv8", "OpenCV", "TensorFlow", "OpenAI API"],
+  iot: ["sensors", "embedded builds"],
+};
+```
+
+## Find me
+
+[LinkedIn](https://linkedin.com/in/jaymaurya) · [HubSkins](https://hubskins-maurya67jay-4189s-projects.vercel.app) · [Support on Ko-fi](https://ko-fi.com/jaymaurya)
