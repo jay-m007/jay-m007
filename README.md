@@ -5,7 +5,15 @@ Computer Engineering student at SJCEM, Mumbai. I build full-stack web apps, AI f
 ## What I'm working on
 
 - **[HubSkins](https://hubskins-maurya67jay-4189s-projects.vercel.app)**: a free browser extension with 16 readable themes for GitHub. Live on Edge, with Chrome and Firefox coming.
-- **[ArchGuard](https://github.com/jay-m007/ArchGuard)**, **[ContextCode](https://github.com/jay-m007/ContextCode)** and **[Resonance](https://github.com/jay-m007/Resonance)**: my main projects, pinned below.
+
+## My projects
+
+- **[ArchGuard](https://github.com/jay-m007/archguard)**: architecture drift detection for JavaScript and TypeScript, with PR checks.
+- **[ContextCode](https://github.com/jay-m007/contextcode)**: picks the right code context for AI assistants within a token budget.
+- **[Resonance](https://github.com/jay-m007/resonance)**: turns support tickets into a ranked list of product issues.
+- **[Nudge](https://github.com/jay-m007/nudge)**: practise Python in your browser with one hint at a time.
+- **[Flagpost](https://github.com/jay-m007/flagpost)**: paste a terminal command and see what every part means.
+- **[Looplet](https://github.com/jay-m007/looplet)**: turn a camera clip or video into a looping GIF, in your browser.
 
 ## Tech stack
 
@@ -15,7 +23,6 @@ const jay = {
   frameworks: ["React", "Next.js", "Node.js"],
   databases: ["MongoDB", "SQL"],
   ai: ["YOLOv8", "OpenCV", "TensorFlow", "OpenAI API"],
-  iot: ["sensors", "embedded builds"],
 };
 ```
 
