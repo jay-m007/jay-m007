@@ -28,6 +28,8 @@ const jay = {
 };
 ```
 
+<p align="center"><img src="assets/loading.svg" width="520" alt="A loading bar for my portfolio that gets stuck at 99 percent"></p>
+
 ## Find me
 
 [LinkedIn](https://linkedin.com/in/jaymaurya) · [HubSkins](https://hubskins-maurya67jay-4189s-projects.vercel.app) · [Support on Ko-fi](https://ko-fi.com/jaymaurya)
