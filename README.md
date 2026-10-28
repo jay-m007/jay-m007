@@ -2,6 +2,8 @@
 
 Computer Engineering student at SJCEM, Mumbai. I build full-stack web apps, AI features and IoT projects.
 
+<p align="center"><img src="assets/terminal.svg" width="520" alt="Animated terminal: fixing one bug creates three more, then a coffee refill"></p>
+
 ## What I'm working on
 
 - **[HubSkins](https://hubskins-maurya67jay-4189s-projects.vercel.app)**: a free browser extension with 16 readable themes for GitHub. Live on Edge, with Chrome and Firefox coming.
